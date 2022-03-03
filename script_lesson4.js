@@ -1,3 +1,4 @@
+console.log("Lesson4");
 const playerName = "nico";
 const playerPoints = 121212;
 const playerHandsome = false;

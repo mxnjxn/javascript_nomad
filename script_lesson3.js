@@ -1,3 +1,4 @@
+console.log("Lesson3");
 // How to organize data in javascript
 const mon = "mon";
 const tue = "tue";

@@ -1,6 +1,6 @@
 //console is where the javascript is going to communicate
 alert("hi");
-
+console.log("Lesson1");
 // print something
 console.log(); // able to put numbers and strings
 console.log(234223423);
@@ -25,6 +25,6 @@ console.log("Hello " + myName);
 console.log("Hello, your name is " + yourName);
 
 // SUMMARY
-// let : not able to redeclare , able to re-assign different value
 // const: not able to redelcare, not able to re-assign different value
+// let : not able to redeclare , able to re-assign different value
 // var: able to redeclare, able to re-assign different value.

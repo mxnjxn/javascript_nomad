@@ -1,3 +1,4 @@
+console.log("Lesson2");
 //boolean 
 const amIFat = "true";
 const amIFat2 = true
