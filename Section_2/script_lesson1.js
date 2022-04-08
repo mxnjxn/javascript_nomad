@@ -10,7 +10,7 @@ console.log("afasfas")
 // const does not change. Can't assign new variable to const
 const a = 10;
 const b = 2;
-const myName = "nico"; // conventionally, javascript use the camel case.
+const myName = "nico"; // conventionally, javascript use camel case.
 
 // Other way to declare variables. Use prefix "let" instead of "const" 
 // Use let for the first declaration. Does not have to use it twice when modifing the value.

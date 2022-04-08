@@ -1,0 +1,1 @@
+// Writing "document" in the Console will allow to see the html code. 
